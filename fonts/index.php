@@ -2,7 +2,7 @@
 
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head> 
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,15 +12,16 @@
     <title>MS Calçados</title>
 </head>
 <body>
-    <div class="menu">
-        <ul>
-            <li><a href="index.html">MS Calçados</a></li>
-            <li><a href="conhecimentos.html">Sapatos</a></li>
-            <li><a href="projetos.html">jnjsdbjs</a></li>
-            <li><a href="contato.html">Contato</a></li>
-            <li><a href="login.html">Cadastre-se</a></li>			
-        </ul>
-    </div>
-   
+    <nav>
+        <div class="menu">
+            <ul>
+                <li><a href="index.html">MS Calçados</a></li>
+                <li><a href="conhecimentos.html">Sapatos</a></li>
+                <li><a href="projetos.html">jnjsdbjs</a></li>
+                <li><a href="contato.html">Contato</a></li>
+                <li><a href="login.html">Cadastre-se</a></li>			
+            </ul>
+        </div>
+    </nav>
 </body>
 </html>
