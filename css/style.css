@@ -1,0 +1,61 @@
+body,html{
+    height:100%;
+    width:80%;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family:Times New Roman;
+    background-image: linear-gradient(#e9b8bd, white);
+}
+.menu{
+    top: 0;
+    left: 0;
+    width: 80%;
+    display: inline-block;
+    justify-content: space-between;
+    font-family: Times New Roman;
+    font-size: 16px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: none;
+}
+#whatsapp{
+    position: absolute; 
+    right: 350px;
+    padding: 14px 16px;
+    font-size: 30px;
+}
+#maps{
+    position: absolute; 
+    right: 300px;
+    padding: 14px 16px;
+    font-size: 30px;
+}
+#text-maps{
+    position: absolute; 
+    right: 175px;
+    padding: 8px 0px;
+    font-size: 20px;
+}
+li{
+    display:inline;
+}
+li a{
+    display: inline-block;
+    color: black;
+    text-align: right;
+    padding: 14px 16px;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.text-h1 p{
+    font-size: 30px;
+    text-align: center;
+    margin: 45px;
+}
+  
