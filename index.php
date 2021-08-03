@@ -19,7 +19,8 @@
 <body>
     <div class="menu">
         <ul>
-            <li><a href="index.php">MS Calçados</a></li>
+
+            <a href="index.php"><img src="img/VETOR LOGO MS.png" alt="MS Calçados" width="100px"></a>
             <li><a href="public/catalogo.php">Catálogo</a></li>
             <li><a href="public/contatos.php">Contatos</a></li>
             <li><i class="fab fa-whatsapp" id="whatsapp"></i></li>
